@@ -2,28 +2,34 @@
 <h3 align="center">💻 Computer Science Student | 🤖 AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+to+my+GitHub!;AI+Learner+%7C+Developer;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dulajtheekshana&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Always+Learning+New+Things;Future+Full+Stack+AI+Developer;React+%7C+Python+%7C+IoT" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-* 🎓 Undergraduate at **Green University of Sri Lanka**
-* 🤖 Passionate about **Artificial Intelligence & Software Development**
-* 🌱 Currently learning **React, Python, IoT**
-* 🎯 Goal: Become a **Full Stack AI Developer**
+- 🎓 Undergraduate at **Green University of Sri Lanka**
+- 🤖 Passionate about **Artificial Intelligence & Software Development**
+- 🌱 Currently learning **React, Python, IoT**
+- 🎯 Goal: Become a **Full Stack AI Developer**
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,flutter,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,flutter,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -31,28 +37,23 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulajtheekshana&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulajtheekshana&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔥 Top Languages
+### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulajtheekshana&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 🧠 Quote
 
 <p align="center">
-  <a href="mailto:dulajtheekshana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Dulaj-red?style=for-the-badge&logo=gmail" />
-  </a>
+  <i>"The best way to predict the future is to create it."</i><br/>
+  – Peter Drucker
 </p>
-
----
-
-<p align="center">✨ Keep Learning | Keep Building 🚀</p>
